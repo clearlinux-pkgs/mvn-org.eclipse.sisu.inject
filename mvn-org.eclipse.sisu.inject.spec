@@ -4,7 +4,7 @@
 #
 Name     : mvn-org.eclipse.sisu.inject
 Version  : 0.3.3
-Release  : 2
+Release  : 3
 URL      : https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.3/org.eclipse.sisu.inject-0.3.3.jar
 Source0  : https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.3/org.eclipse.sisu.inject-0.3.3.jar
 Source1  : https://repo1.maven.org/maven2/org/eclipse/sisu/org.eclipse.sisu.inject/0.3.2/org.eclipse.sisu.inject-0.3.2.jar
